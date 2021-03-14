@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="repo-snap-gecwalmart" />
+      <option name="name" value="Walmart GeC Snapshot Repo Collection" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_snapshot2" />
+      <option name="name" value="nexus_snapshot2" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo-gecwalmart" />
+      <option name="name" value="Walmart GeC Release Repo Collection" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus_snapshot" />
+      <option name="name" value="nexus_snapshot" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public_snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo-relarch-gecwalmart" />
+      <option name="name" value="Walmart GeC Release Archive" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo-public-gecwalmart" />
+      <option name="name" value="Walmart GeC Public Repo Collection" />
+      <option name="url" value="http://gec-maven-nexus.walmart.com/nexus/content/groups/public" />
+    </remote-repository>
+  </component>
+</project>
